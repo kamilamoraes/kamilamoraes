@@ -1,14 +1,14 @@
-# Hi, I'm Kamila! 👋
+# Hi, I'm Kamila! 😊
 
 🎓 Software Engineering Student
 
-☕ Passionate about Java and Backend Development.
+☕ Interested in Java, Backend Development and Software Engineering.
 
 🚀 Building my portfolio while growing as a software developer.
 
 ---
 
-## 👨‍💻 AboutMe.java
+## 💻 AboutMe.java
 
 ```java
 import java.util.List;
