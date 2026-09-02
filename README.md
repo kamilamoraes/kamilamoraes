@@ -1,3 +1,15 @@
+# Hi, I'm Kamila! 😊
+
+🎓 Software Engineering Student
+
+💻 Interested in Software Development, Data Analytics and Data Engineering.
+
+🚀 Building my portfolio while growing as a software developer.
+
+---
+
+## 💻 AboutMe.java
+
 ```java
 import java.util.List;
 
@@ -62,15 +74,15 @@ public class KamilaMoraes {
 
 ## 🚀 Current Projects
 
-📂 Java Enterprise Lab (In Progress)
-📂 Software Development Portfolio (In Progress)
+- 📂 Java Enterprise Lab (In Progress)
+- 📂 Software Development Portfolio (In Progress)
 
 ---
 
 ## 🎯 Goals
 
-Build reliable and scalable software solutions.
-Develop strong skills in software and backend development.
-Explore data analytics and data engineering.
-Build applications that work with APIs, databases and data.
-Continuously expand my knowledge of software technologies.
+- Build reliable and scalable software solutions.
+- Develop strong skills in software and backend development.
+- Explore data analytics and data engineering.
+- Build applications that work with APIs, databases and data.
+- Continuously expand my knowledge of software technologies.
