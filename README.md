@@ -50,10 +50,10 @@ public class KamilaMoraes {
 }
       
 ---
-## 💻
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,typescript,git,github,linux" />
-</p>
+
+## 💻 Technologies
+
+![Technologies](https://skillicons.dev/icons?i=java,python,typescript,git,github,linux,mysql)
 
 ---
 
