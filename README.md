@@ -1,15 +1,3 @@
-# Hi, I'm Kamila! 😊
-
-🎓 Software Engineering Student
-
-💻 Interested in Software Development, Data Analytics and Data Engineering.
-
-🚀 Building my portfolio while growing as a software developer.
-
----
-
-## 💻 AboutMe.java
-
 ```java
 import java.util.List;
 
@@ -26,7 +14,8 @@ public class KamilaMoraes {
         "TypeScript",
         "Git",
         "GitHub",
-        "Linux"
+        "Linux",
+        "C#"
     );
 
     private final List<String> areasOfInterest = List.of(
@@ -48,12 +37,15 @@ public class KamilaMoraes {
         return "Build reliable, scalable and data-driven software solutions.";
     }
 }
-      
+```
+
 ---
 
 ## 💻 Technologies
 
-![Technologies](https://skillicons.dev/icons?i=java,python,ts,git,github,linux,mysql)
+![Technologies](https://skillicons.dev/icons?i=java,python,typescript,git,github,linux,mysql)
+
+---
 
 ## 📚 Currently Learning
 
@@ -64,23 +56,21 @@ public class KamilaMoraes {
 - Git
 - GitHub
 - Linux
+- C#
 
 ---
 
 ## 🚀 Current Projects
 
-- 📂 Java Enterprise Lab *(In Progress)*
-- 📂 Software Development Portfolio *(In Progress)*
+📂 Java Enterprise Lab (In Progress)
+📂 Software Development Portfolio (In Progress)
 
 ---
 
 ## 🎯 Goals
 
-- Build reliable and scalable software solutions.
-- Develop strong skills in software and backend development.
-- Explore data analytics and data engineering.
-- Build applications that work with APIs, databases and data.
-- Continuously expand my knowledge of software technologies.
-
-
-
+Build reliable and scalable software solutions.
+Develop strong skills in software and backend development.
+Explore data analytics and data engineering.
+Build applications that work with APIs, databases and data.
+Continuously expand my knowledge of software technologies.
