@@ -50,11 +50,9 @@ public class KamilaMoraes {
 }
       
 ---
-
-## 💻 Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,ts,git,github,linux,mysql" />
+## 💻
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,typescript,git,github,linux" />
 </p>
 
 ---
