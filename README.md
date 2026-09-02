@@ -2,7 +2,7 @@
 
 🎓 Software Engineering Student
 
-☕ Interested in Java, Backend Development and Software Engineering.
+💻 Interested in Software Development, Data Analytics and Data Engineering.
 
 🚀 Building my portfolio while growing as a software developer.
 
@@ -17,21 +17,27 @@ public class KamilaMoraes {
 
     private final String role = "Software Engineering Student";
 
-    private final String focus = "Backend Development";
+    private final String focus = "Software Development";
 
     private final List<String> studying = List.of(
         "Java",
-        "SQL",
         "Python",
+        "SQL",
         "TypeScript",
         "Git",
         "GitHub",
         "Linux"
     );
 
+    private final List<String> areasOfInterest = List.of(
+        "Software Development",
+        "Data Analytics",
+        "Data Engineering"
+    );
+
     private final List<String> currentProjects = List.of(
         "Java Enterprise Lab",
-        "Java Developer Portfolio"
+        "Software Development Portfolio"
     );
 
     public String currentStatus() {
@@ -39,11 +45,10 @@ public class KamilaMoraes {
     }
 
     public String goal() {
-        return "Become a Backend Software Engineer.";
+        return "Build reliable, scalable and data-driven software solutions.";
     }
 }
-```
-
+      
 ---
 
 ## 💻 Technologies
@@ -69,31 +74,17 @@ public class KamilaMoraes {
 ## 🚀 Current Projects
 
 - 📂 Java Enterprise Lab *(In Progress)*
-- 📂 Java Developer Portfolio *(In Progress)*
+- 📂 Software Development Portfolio *(In Progress)*
 
 ---
 
 ## 🎯 Goals
 
-- Improve my Java skills
-- Master SQL
-- Build REST APIs with Spring Boot
-- Become a Backend Software Engineer
-- Develop scalable applications
+- Build reliable and scalable software solutions.
+- Develop strong skills in software and backend development.
+- Explore data analytics and data engineering.
+- Build applications that work with APIs, databases and data.
+- Continuously expand my knowledge of software technologies.
 
----
 
-<!--
-**kamilamoraes/kamilamoraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
