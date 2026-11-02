@@ -55,7 +55,7 @@ public class KamilaMoraes {
 
 ## 💻 Technologies
 
-![Technologies](https://skillicons.dev/icons?i=java,python,typescript,git,github,linux,mysql)
+![Technologies](https://skillicons.dev/icons?i=java,python,cs,typescript,git,github,linux,mysql)
 
 ---
 
