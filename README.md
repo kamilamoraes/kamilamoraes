@@ -86,3 +86,7 @@ public class KamilaMoraes {
 - Explore data analytics and data engineering.
 - Build applications that work with APIs, databases and data.
 - Continuously expand my knowledge of software technologies.
+
+<p align="center">
+  <img src="assets/spider_man_github_banner.png" width="100%" alt="Spider-Man banner">
+</p>
