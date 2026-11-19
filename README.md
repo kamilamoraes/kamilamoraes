@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/dupla_programando_pixel_art.gif"
+       width="320"
+       alt="Dois personagens programando em mesas separadas">
+</p>
+
 # Hi, I'm Kamila! 😊
 
 🎓 Software Engineering Student
