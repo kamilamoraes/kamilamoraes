@@ -13,6 +13,10 @@
 🚀 Building my portfolio while growing as a software developer.
 
 ---
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=C9D1D9&width=520&height=35&lines=Learning.+Building.+Improving.;Exploring+Software+Development+%26+Data;Turning+ideas+into+code." alt="Typing SVG">
+</p>
+---
 
 ## 💻 AboutMe.java
 
